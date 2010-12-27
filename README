@@ -1,6 +1,6 @@
 Just a little script I threw together to improve my speed with number keys.
 
-Run it from terminal, and it outputs a set of digits and waits for you to type them (it does this 10 times). 
+Run it from terminal, and it outputs a set of digits and waits for you to type them (it does this 10 times). Requres ruby to run. 
 
 The script is very simple; you can edit it directly if you want to change anything.
 
