@@ -2,6 +2,6 @@ Just a little script I threw together to improve my speed with number keys.
 
 Run it from terminal, and it outputs a set of digits and waits for you to type them (it does this 10 times). 
 
-The script is very simple so you can edit it directly if you want to change anything.
+The script is very simple; you can edit it directly if you want to change anything.
 
 Released under the GNU General Public License, version 3 (GPLv3).
